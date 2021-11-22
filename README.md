@@ -18,5 +18,9 @@ whether a current employee will be leaving the organization in the upcoming two 
 
 
 
-### Evaluation Metric
+#### Evaluation Metric
 The evaluation metric for this competition is macro f1_score
+
+
+#### Final Result
+Got 61 rank outof 7000+ participants. 
