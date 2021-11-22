@@ -15,3 +15,8 @@ whether a current employee will be leaving the organization in the upcoming two 
 1. Demographics of the employee (city, age, gender etc.)
 2. Tenure information (joining date, Last Date)
 3. Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
+
+
+
+### Evaluation Metric
+The evaluation metric for this competition is macro f1_score
